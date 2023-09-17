@@ -4,11 +4,11 @@
 
         // Sample suggestion data (replace with your own)
         const suggestionData = [
-            "Suggestion 1",
-            "Suggestion 2",
-            "Suggestion 3",
-            "Suggestion 4",
-            "Suggestion 5",
+            "How to code javascript faster",
+            "How to edit photo",
+            "How to edit video",
+            "How to make money",
+            "How to lose weight",
         ];
 
         // Function to display suggestions
